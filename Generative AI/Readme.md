@@ -12,6 +12,11 @@
 
 - **GSP277** - APIs Explorer: Qwik Start
   - Lab Status: ✅ WORKING FINE.
-  - Last Checked: 10-08-2023.
+  - Last Checked: 07-09-2023.
+  - Solution Status: UPLOADED.
+---
+- **GSP075** - Extract, Analyze, and Translate Text from Images with the Cloud ML APIs
+  - Lab Status: ✅ WORKING FINE.
+  - Last Checked: 09-09-2023.
   - Solution Status: UPLOADED.
 ---
