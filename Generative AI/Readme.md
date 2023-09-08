@@ -20,3 +20,18 @@
   - Last Checked: 09-09-2023.
   - Solution Status: UPLOADED.
 ---
+- **ARC122** - Analyze Images with the Cloud Vision API: Challenge Lab
+  - Lab Status: ✅ WORKING FINE.
+  - Last Checked: 09-09-2023.
+  - Solution Status: UPLOADED.
+---
+- **GSP037** - Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API
+  - Lab Status: ✅ WORKING FINE
+  - Last Checked: 09-09-2023.
+  - Solution Status: UPLOADED.
+---
+- **GSP038** - Entity and Sentiment Analysis with the Natural Language API
+  - Lab Status: ✅ WORKING FINE.
+  - Last Checked: 09-09-2023.
+  - Solution Status: UPLOADED.
+---
